@@ -13,7 +13,7 @@ Deploy game by uploading index.html to your existing Netlify site (replace old i
 
 How to play:
 1. Open the Netlify game on device A.
-2. Keep Server URL as https://minecraft-demo.onrender.com, enter nickname, tap "Создать лобби".
+2. Keep Server URL as https://minecraft-.onrender.com, enter nickname, tap "Создать лобби".
 3. Send the six-digit code displayed in the status message to your friend.
 4. Device B opens the same Netlify game, enters nickname and code, taps "Войти по коду".
 5. Both players should see each other and share block edits.
